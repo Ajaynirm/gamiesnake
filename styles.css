@@ -56,6 +56,9 @@ body{
 
 }
 @media screen and (max-width: 800px) {
+    .footer{
+    font-size: larger;
+  }
     .wrapper {
       width: 90vmin;
       height: 115vmin;
