@@ -103,7 +103,7 @@ const initGame = () => {
 changeFoodPosition();
 
 // 125 spead of snake
-setIntervalId=setInterval(initGame, 200);
+setIntervalId=setInterval(initGame, 150);
 
 document.addEventListener('keydown',changeDirection);
 
